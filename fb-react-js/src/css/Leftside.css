@@ -1,0 +1,12 @@
+.left-list{
+    width: 33.33%;
+}
+.left-list li{
+    padding-top: 30px;
+    font-size: 20px;
+    list-style-type: none;
+}
+.left-list i{
+    color: rgb(32, 123, 226);
+    padding-left: 20px;
+}

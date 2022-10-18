@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.header__left{
+    width: 80%;
+    display: flex;
+
+
+}
+.header__search{
+    width: 50%;
+}
+.header__search input{
+    margin-top: 8px;
+    border-radius: 20px;
+    height: 20px;
+}
+.header__left img{
+    height: 30%;
+}
+.header__right{
+    display: flex;
+    width: 50%;
+    justify-content:end;
+}
+.header__middle{
+    width: 40%;
+}
+.header__right li{
+    font-size: 30px;
+    list-style-type: none;
+    padding-right: 25px;
+    color: rgb(32, 123, 226);
+}
+.header_mid_icon{
+    display: flex;
+    width: 50%;
+    list-style-type: none;
+    font-size: 30px;
+    color: rgb(32, 123, 226);
+}
+.header_mid_icon li{
+    padding: 0 50px 0 0;
+}

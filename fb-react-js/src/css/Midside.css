@@ -1,0 +1,6 @@
+.story-img{
+    display: flex;
+}
+.story-img img{
+    height: 200px;
+}
