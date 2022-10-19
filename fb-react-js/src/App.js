@@ -2,7 +2,7 @@ import Header from "./Header";
 import './bootstrap-icons.css';
 import LeftSide from "./LeftSide";
 import Midside from "./Midside";
-// import Rightside from "./Rightside"
+import Rightside from "./Rightside";
 
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
       <div className="app__body">
          <LeftSide/>
         <Midside/>
+        <Rightside/>
 
       </div>
       

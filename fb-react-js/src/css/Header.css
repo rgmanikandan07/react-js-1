@@ -1,12 +1,11 @@
 .header{
     display: flex;
-    /* justify-content: space-between; */
+    padding-top: 20px;
+    background-color: aliceblue;
 }
 .header__left{
-    width: 80%;
+    width: 100%;
     display: flex;
-
-
 }
 .header__search{
     width: 50%;
@@ -41,5 +40,5 @@
     color: rgb(32, 123, 226);
 }
 .header_mid_icon li{
-    padding: 0 50px 0 0;
+    padding: 0 75px 0 0;
 }
